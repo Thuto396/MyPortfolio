@@ -15,6 +15,6 @@ If you would like to download a copy of my resume, simply click on the "Download
 This website was built using HTML, CSS, and JavaScript.
 
 ## Contact Information
-If you have any questions or would like to get in touch, please feel free to email me at [(malesathuto@gamil.com)]
+If you have any questions or would like to get in touch, please feel free to email me at [(malesathuto@gmail.com)]
 
 Thank you for visiting my online resume page!
